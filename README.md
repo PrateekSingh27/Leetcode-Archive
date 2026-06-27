@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2574-left-and-right-sum-differences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2574-left-and-right-sum-differences) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -34,6 +35,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
