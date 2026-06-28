@@ -49,6 +49,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
@@ -94,4 +95,12 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3691-maximum-total-subarray-value-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
