@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3614-process-string-with-special-operations-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3614-process-string-with-special-operations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -115,6 +116,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3614-process-string-with-special-operations-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3614-process-string-with-special-operations-ii) |
 ## Sliding Window
 |  |
 | ------- |
