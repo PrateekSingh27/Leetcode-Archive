@@ -6,6 +6,7 @@
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -85,6 +87,7 @@
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1331-rank-transform-of-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
