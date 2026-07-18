@@ -8,6 +8,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -65,6 +66,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -185,5 +187,6 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
