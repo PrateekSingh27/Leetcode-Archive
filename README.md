@@ -19,6 +19,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3620-network-recovery-pathways](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -71,6 +72,7 @@
 | [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Dynamic Programming
@@ -86,6 +88,7 @@
 | [1291-sequential-digits](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
