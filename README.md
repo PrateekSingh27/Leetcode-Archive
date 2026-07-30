@@ -72,6 +72,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -96,6 +97,7 @@
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3689-maximum-total-subarray-value-i) |
@@ -152,6 +154,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3614-process-string-with-special-operations-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3614-process-string-with-special-operations-ii) |
