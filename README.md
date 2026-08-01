@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1260-shift-2d-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
@@ -73,6 +74,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
@@ -82,6 +84,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -152,6 +155,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 ## String
 |  |
 | ------- |
@@ -226,4 +230,8 @@
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
