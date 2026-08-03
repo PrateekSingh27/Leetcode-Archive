@@ -9,6 +9,7 @@
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
@@ -86,6 +88,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
+| [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -234,4 +237,13 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
+| [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
