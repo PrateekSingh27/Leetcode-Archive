@@ -182,6 +182,7 @@
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
@@ -249,4 +251,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
