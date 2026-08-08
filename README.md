@@ -93,6 +93,7 @@
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3620-network-recovery-pathways](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -112,6 +113,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -132,6 +134,7 @@
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -174,6 +177,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3501-maximize-active-section-with-trade-ii) |
