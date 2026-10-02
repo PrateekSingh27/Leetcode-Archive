@@ -127,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
@@ -223,6 +224,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -346,6 +348,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0022-generate-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Ordered Set
 |  |
@@ -354,6 +357,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
