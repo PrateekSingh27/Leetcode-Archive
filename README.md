@@ -132,6 +132,7 @@
 | [0022-generate-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -154,6 +155,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1386-cinema-seat-allocation) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -228,6 +230,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0115-distinct-subsequences) |
+| [0678-valid-parenthesis-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -316,6 +319,7 @@
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -360,6 +364,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
