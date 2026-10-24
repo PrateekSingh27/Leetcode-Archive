@@ -123,6 +123,7 @@
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -261,6 +262,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
