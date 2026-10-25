@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
+| [1254-number-of-closed-islands](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
@@ -288,6 +289,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -295,12 +297,14 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Matrix
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1301-number-of-paths-with-max-score) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -379,6 +383,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3310-remove-methods-from-project) |
 ## Backtracking
