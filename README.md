@@ -41,6 +41,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -294,6 +295,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
@@ -310,6 +313,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -386,6 +390,7 @@
 | [1254-number-of-closed-islands](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3310-remove-methods-from-project) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Backtracking
 |  |
 | ------- |
