@@ -55,6 +55,7 @@
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -158,6 +159,7 @@
 | [3620-network-recovery-pathways](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3620-network-recovery-pathways) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -371,6 +374,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
