@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1254-number-of-closed-islands](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1260-shift-2d-grid) |
@@ -123,6 +124,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0002-add-two-numbers) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0486-predict-the-winner) |
 | [1406-stone-game-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -195,6 +197,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1288-remove-covered-intervals](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
