@@ -28,6 +28,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2574-left-and-right-sum-differences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2574-left-and-right-sum-differences) |
+| [2747-count-zero-request-servers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -72,6 +73,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2747-count-zero-request-servers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -211,6 +213,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2747-count-zero-request-servers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2747-count-zero-request-servers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -302,6 +305,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3090-maximum-length-substring-with-two-occurrences) |
