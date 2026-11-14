@@ -41,6 +41,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3364-minimum-positive-sum-subarray) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -119,6 +120,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2574-left-and-right-sum-differences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
+| [3364-minimum-positive-sum-subarray](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3364-minimum-positive-sum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3903-smallest-stable-index-i) |
@@ -318,6 +320,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Breadth-First Search
 |  |
