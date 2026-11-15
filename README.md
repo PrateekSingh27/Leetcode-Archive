@@ -63,6 +63,7 @@
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -99,6 +100,7 @@
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [3691-maximum-total-subarray-value-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -312,6 +315,7 @@
 | [3614-process-string-with-special-operations-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3614-process-string-with-special-operations-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
@@ -361,6 +365,7 @@
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -416,6 +421,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
@@ -438,6 +444,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -463,4 +470,5 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
