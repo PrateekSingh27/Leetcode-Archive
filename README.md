@@ -154,6 +154,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3360-stone-removal-game) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3525-find-x-value-of-array-ii) |
@@ -268,6 +269,7 @@
 | [1260-shift-2d-grid](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3360-stone-removal-game](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3498-reverse-degree-of-a-string) |
 | [3614-process-string-with-special-operations-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3614-process-string-with-special-operations-ii) |
 ## Heap (Priority Queue)
