@@ -72,6 +72,7 @@
 | [3903-smallest-stable-index-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -226,6 +227,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +245,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -286,6 +289,7 @@
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/PrateekSingh27/Leetcode-Archive/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Linked List
 |  |
